@@ -1,4 +1,4 @@
-public class EJBContainer {
+public class StatelessBeanPool {
 
     public Object getBean(String name) {
         return null;
